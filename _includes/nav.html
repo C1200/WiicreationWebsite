@@ -1,6 +1,6 @@
 <ul class="nav-list">
-  <li class="nav-list-item"><a href="/" class="nav-list-link">Home</a></li>
-  <li class="nav-list-item"><a href="/download" class="nav-list-link">Download</a></li>
+  <li class="nav-list-item"><a href="{{ site.baseurl }}/" class="nav-list-link">Home</a></li>
+  <li class="nav-list-item"><a href="{{ site.baseurl }}/download" class="nav-list-link">Download</a></li>
   {%- assign titled_pages = include.pages
         | where_exp:"item", "item.title != nil" -%}
 
