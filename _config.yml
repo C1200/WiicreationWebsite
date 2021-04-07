@@ -23,7 +23,7 @@ email: coreyw.ultimatemedia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Wiicreation Website source containing docs, downloads and more.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://wiicreation.js.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://wiicreation.is-a.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: C1200Games
 github_username:  C1200
 
