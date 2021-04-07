@@ -16,5 +16,5 @@ rm -rf package.json
 rm -rf package-lock.json
 
 git add .
-git commit -m 'Commited using push.sh'
+git commit -m '$0'
 git push
