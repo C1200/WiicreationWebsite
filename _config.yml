@@ -24,5 +24,5 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 lastupdate:
-  date: Wed 07 Apr 2021 01:17:17 PM BST
+  date: Wed 07 Apr 2021 01:20:07 PM BST
   user: Corey W
