@@ -1,6 +1,7 @@
 title: Wiicreation
 email: coreyw.ultimatemedia@gmail.com
 description: The Wiicreation Website source containing docs, downloads and more.
+tagline: Wiicreation is a recreation of the Nintendo Wii made in ElectronJS.
 baseurl: /WiicreationWebsite
 url: https://C1200.js.org
 twitter_username: C1200Games
@@ -24,5 +25,5 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 lastupdate:
-  date: Fri 09 Apr 2021 03:48:41 PM BST
+  date: Fri 09 Apr 2021 03:57:11 PM BST
   user: C1200
