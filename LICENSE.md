@@ -1,5 +1,5 @@
 ---
-title: Home
+title: License
 layout: post
 permalink: /LICENSE
 ---
